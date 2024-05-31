@@ -102,11 +102,7 @@ img {
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 
-.logo{
-  height: 60px;
-  width: 80px;
-  margin-left: 30px;
-}
+
 
 .container {
   max-width: 1120px;
