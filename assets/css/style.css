@@ -102,9 +102,10 @@ img {
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 
-.logo-img{
+.logo{
   height: 60px;
   width: 80px;
+  margin-left: 30px;
 }
 
 .container {
@@ -154,7 +155,7 @@ img {
   font-weight: var(--font-semi-bold);
 
   
-  /* margin-right: 70%; */
+  margin-right: 450px;
 }
 
 
